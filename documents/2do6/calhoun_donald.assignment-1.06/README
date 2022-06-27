@@ -1,0 +1,8 @@
+This is my pokemon c code for 1.06, which meets all of the specified requirements as follows:
+	- Converted all but heap files to cpp
+	- Still compiles map but doesn't display it
+	- Parses the needed files in the right locations
+	- Prints out the parsed info based on file given
+	- Uses inheritance for NPC and PC
+	- Makes classes for each type with the parsed files
+	- Changed from structs to classes

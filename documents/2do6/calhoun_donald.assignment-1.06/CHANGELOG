@@ -1,0 +1,7 @@
+Changed code from mine to the 1.05 solution to start with
+Next I changed the files to .cpp
+I then changed my structs to classes and compiled
+Fixed compiled errors which were mainly type casting
+Made seperate file for parsing the needed csv
+Added file search and input
+Then moved parsing code in with main code
